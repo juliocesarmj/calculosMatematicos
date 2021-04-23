@@ -25,7 +25,7 @@ section {
 }
 section div.container {
   border: 2px solid;
-  padding: 80px 80px;
+  padding: 40px 80px;
   width: 900px;
 }
 div.content {
@@ -47,6 +47,7 @@ form {
   background: azure;
   margin-top: 15px;
   transition: 0.3s;
+  padding-left: 10px;
 }
 .content form input:hover {
   opacity: 0.6;
@@ -83,6 +84,7 @@ h2 {
   top: 15%;
   font-weight: bold;
   font-size: 1.1rem;
+  padding-bottom: 20px;
 }
 .content form .doubleInput {
   margin-left: 10px;
